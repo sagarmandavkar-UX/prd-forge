@@ -1,5 +1,7 @@
 # PRD Forge
 
+[![CI](https://github.com/sagarmandavkar-UX/prd-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/sagarmandavkar-UX/prd-forge/actions/workflows/ci.yml)
+
 Turn product ideas into clear, actionable requirements.
 
 PRD Forge is a Next.js App Router application for generating, editing, scoring, versioning, exporting, and sharing Product Requirements Documents. It includes a full local demo mode that works without Supabase or external AI credentials, plus production-ready integration points for Supabase Auth/PostgreSQL/RLS and server-side AI providers.
